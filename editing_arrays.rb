@@ -23,6 +23,6 @@ def add_colors
   "light_red",
   "light_yellow"
 ]
-  add_colors.push("green", "blue")
+  rainbow_colors.push("green", "blue")
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the array
 end
